@@ -1,0 +1,18 @@
+{
+  "$schema": "https://shadcn-vue.com/schema/registry-item.json",
+  "name": "index",
+  "dependencies": [
+    "class-variance-authority",
+    "cn",
+    "@lucide/vue"
+  ],
+  "devDependencies": [
+    "tw-animate-css"
+  ],
+  "registryDependencies": [
+    "utils"
+  ],
+  "files": [],
+  "cssVars": {},
+  "type": "registry:style"
+}
