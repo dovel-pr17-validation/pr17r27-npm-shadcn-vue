@@ -32,7 +32,7 @@
     "taze": "taze --ignore-paths \"deprecated/**\" -frI"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^6.6.1",
+    "@antfu/eslint-config": "^10.0.0",
     "@commitlint/cli": "^20.2.0",
     "@commitlint/config-conventional": "^20.2.0",
     "@vitest/ui": "^3.2.4",
